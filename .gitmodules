@@ -1,3 +1,6 @@
 [submodule "Android"]
 	path = Android
 	url = https://github.com/KEY9798/Android.git
+[submodule "OxygenOS"]
+	path = OxygenOS
+	url = https://github.com/KEY9798/OxygenOS.git
